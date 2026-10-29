@@ -35,21 +35,32 @@ Its unique feature is Transfer-Time Intelligence, which considers the passenger'
 ## Technology Stack
 
 Frontend -	React.js
+
 Backend -	Node.js and Express.js
+
 Database -	PostgreSQL
+
 Mapping -	Google Maps Platform for supported outdoor mapping; indoor station maps and custom routing
+
 Authentication -	Firebase Authentication
+
 Voice assistance -	Text-to-speech API
+
 Development tools -	Git, Postman or Insomnia
+
 Deployment -	AWS or another cloud provider
 
 
 ## Dependencies
 
 Dependency	Estimated time  - 10 days
+
 Station map and facility data collection - 10 days
+
 Mapping and route implementation - 10 days
+
 Backend and database -	7 days
+
 Voice and accessibility features -	5 days
 Testing and integration - 5 days
 
